@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Medha Kamath
 
-<!--
-**medhakamath/medhakamath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build lightweight, developer-friendly REST APIs in Python focused on **document parsing, accounting automation, and data hygiene**.
 
-Here are some ideas to get you started:
+### 🚀 My Public APIs on RapidAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| API Name | What It Does | Free Tier | Code & Docs |
+| :--- | :--- | :--- | :--- |
+| **[PDF Invoice & Receipt Data Extractor](https://rapidapi.com)** | Extract structured JSON (vendor, invoice #, date, tax, total) from PDF files, URLs, or raw text. | 50 req/mo | [GitHub Repo](https://github.com/medhakamath/pdf-invoice-receipt-data-extractor-api) |
+| **[E-Commerce & Accounting Format Converter](https://rapidapi.com)** | Normalize Shopify, WooCommerce & Stripe order exports and convert between JSON, CSV, and XML. | 100 req/mo | [GitHub Repo](https://github.com/medhakamath/ecommerce-order-csv-to-xml-json-converter) |
+| **[Email & Lead Hygiene API](https://rapidapi.com)** | Validate email syntax, verify DNS MX records, block 10,000+ disposable domains, and catch typos (`gmial.com`). | 100 req/mo | [GitHub Repo](https://github.com/medhakamath/python-email-validator-disposable-checker) |
+
+### 🛠️ Tech Stack & Focus
+`Python` • `REST APIs` • `Data Parsing` • `JSON / XML / CSV` • `Automation`
